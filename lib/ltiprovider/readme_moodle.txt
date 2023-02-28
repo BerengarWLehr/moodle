@@ -1,6 +1,9 @@
 LTI Tool Provider Library PHP
 =============================
 
+One chang has been made whithout accompanying pull request as the library is archived:
+* Configuration variable $CFG->wwwroot is to determine the servername for OAuth
+
 Some changes from the upstream version have been made:
 * Define consumer profile member variable for ToolConsumer class
 * Added context type property for Context class
